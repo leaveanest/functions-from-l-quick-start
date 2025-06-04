@@ -1,12 +1,44 @@
 # 主な機能
 
-- AIチャット
-  - ファイル要約
-  - URL要約
-  - 画像生成
-  - 音声生成
-  - RSSコンシェルジュ
-- スタンプ翻訳
+### AIチャット機能
+- **マルチLLMプロバイダー対応**
+  - OpenAI（GPT-3.5、GPT-4、GPT-4 Turbo）
+  - Anthropic Claude
+  - Amazon Bedrock（Stable Diffusion対応）
+  - Google Gemini（Gemini-Pro、Gemini-Pro-Vision）
+  - Azure OpenAI API対応
+- **ファイル要約**（Word、PPT、Excel、CSV対応）
+- **URL要約**（Web検索機能付き）
+- **画像生成**（DALLE3、Stable Diffusion、Imagen）
+- **音声生成**
+- **マルチモーダル機能**（画像認識・分析）
+- **音声文字起こし機能**
+
+### 外部データソース連携
+- **Pineconeベクトルデータベース連携**
+  - 🍍スタンプでの自動ベクトル化
+  - 自動格納機能（文字数設定可能）
+- **Googleスプレッドシート RAG機能**
+- **GoogleWorkspace連携**（Docs、スプレッドシート、スライド）
+- **Web検索機能**（最新情報取得）
+- **Slack検索機能**（ワークスペース内メッセージ検索）
+
+### 外部サービス連携
+- **RSSコンシェルジュ**（定期自動投稿）
+- **Asana連携**
+- **Salesforce連携**
+- **Dify連携**（チャットボット、チャットフロー対応）
+
+### 高度なSlack機能
+- **スレッド要約機能**
+- **返信案自動作成機能**
+- **Canvas出力機能**（Slack有料プラン必要）
+- **スタンプ翻訳**（DeepL、Google翻訳、LLM翻訳対応）
+
+### OpenAI Assistant API機能
+- **Assistant作成・管理機能**
+- **Code Interpreter機能**（自律的思考・実行）
+- **Retrieval機能**（ファイル添付での情報参照）
 
 ## セットアップ
 
