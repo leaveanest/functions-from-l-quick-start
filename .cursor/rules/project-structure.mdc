@@ -1,0 +1,30 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# プロジェクト構造ガイド
+
+このプロジェクトは複数のアプリケーションを含むモノレポ構造です。
+
+## プロジェクトルート
+メインプロジェクトの概要は [README.md](mdc:README.md) に記載されています。
+
+## アプリケーション一覧
+
+### apps/party_on_slack/
+Slackアプリのメインディレクトリです。
+- [README.md](mdc:apps/party_on_slack/README.md) - 日本語ドキュメント（機能説明、セットアップ手順）
+- [README_EN.md](mdc:apps/party_on_slack/README_EN.md) - 英語ドキュメント
+
+主な機能：
+- AIチャット（ファイル要約、URL要約、画像生成、音声生成、RSSコンシェルジュ）
+- スタンプ翻訳機能
+
+### apps/timeline/
+タイムライン機能を提供するアプリケーション
+
+## 開発時の注意点
+- 新機能追加時は該当するREADMEファイルも更新してください
+- 日本語ドキュメントを更新した場合は、対応する英語版も更新してください
+- 各アプリは独立して動作するように設計されています
