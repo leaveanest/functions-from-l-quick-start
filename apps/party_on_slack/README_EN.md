@@ -1,4 +1,4 @@
-# Party on Slack Test Items
+# Party on Slack Function List
 
 ## 1. Initial Setup and Access Control
 
@@ -9,7 +9,7 @@
 3. Select which workspace to install to
 4. Review permissions and click the authorize button
 
-https://youtu.be/ODa18XV4qj4
+[![App Installation](http://img.youtube.com/vi/ODa18XV4qj4/0.jpg)](https://youtu.be/ODa18XV4qj4)
 
 ### 1.2 Global Lock Setting Function
 
@@ -19,7 +19,7 @@ https://youtu.be/ODa18XV4qj4
 4. Click the "Lock" button
 5. Confirm that other users cannot change the settings
 
-https://youtu.be/pyEUES06y4U
+[![Global Lock Setting Function](http://img.youtube.com/vi/pyEUES06y4U/0.jpg)](https://youtu.be/pyEUES06y4U)
 
 ### 1.3 Workspace Permission Settings
 
@@ -28,7 +28,7 @@ https://youtu.be/pyEUES06y4U
 3. Review permission settings for DM usage, multimodal, image generation, and voice generation
 4. Select "Allow" or "Disallow" as needed
 
-https://youtu.be/w-g0ItPHAaE
+[![Workspace Permission Settings](http://img.youtube.com/vi/w-g0ItPHAaE/0.jpg)](https://youtu.be/w-g0ItPHAaE)
 
 ## 2. API Key Settings and Basic Authentication
 
@@ -42,7 +42,7 @@ https://youtu.be/w-g0ItPHAaE
 4. Click the "Save" button
 5. Confirm that "API Key is registered" is displayed
 
-https://youtu.be/8oZmn4Hrh2k
+[![API Key Registration and Verification](http://img.youtube.com/vi/8oZmn4Hrh2k/0.jpg)](https://youtu.be/8oZmn4Hrh2k)
 
 ### 2.2 Model Selection Function
 
@@ -52,7 +52,7 @@ https://youtu.be/8oZmn4Hrh2k
 4. Click the "Save" button
 5. Confirm that only the selected models are displayed when selecting models in channels
 
-https://youtu.be/dgqPeUedz7E
+[![Model Selection Function](http://img.youtube.com/vi/dgqPeUedz7E/0.jpg)](https://youtu.be/dgqPeUedz7E)
 
 ### 2.3 Workspace Model Settings
 
@@ -62,7 +62,7 @@ https://youtu.be/dgqPeUedz7E
 
 Models selected in channels take priority over models registered in the workspace.
 
-https://youtu.be/Gc9bOSykWcg
+[![Workspace Model Settings](http://img.youtube.com/vi/Gc9bOSykWcg/0.jpg)](https://youtu.be/Gc9bOSykWcg)
 
 ## 3. Basic AI Chat Functions
 
@@ -74,7 +74,7 @@ https://youtu.be/Gc9bOSykWcg
 4. Confirm that the AI's reply appears in a thread
 5. Confirm that the thread menu is displayed
 
-https://youtu.be/2zJXFrQ2fss
+[![Mention Response in Channels](http://img.youtube.com/vi/2zJXFrQ2fss/0.jpg)](https://youtu.be/2zJXFrQ2fss)
 
 ### 3.2 DM Conversations
 
@@ -83,7 +83,7 @@ https://youtu.be/2zJXFrQ2fss
 3. Enter and send a message (no mention required)
 4. Confirm that the AI's reply is displayed
 
-https://youtu.be/3zqQgsPuywo
+[![DM Conversations](http://img.youtube.com/vi/3zqQgsPuywo/0.jpg)](https://youtu.be/3zqQgsPuywo)
 
 ### 3.3 Continuous Conversation in Threads
 
@@ -92,7 +92,7 @@ https://youtu.be/3zqQgsPuywo
 3. Confirm that the AI understands the context of the previous conversation and replies
 4. Continue multiple exchanges and confirm that the conversation continues
 
-https://youtu.be/N66LbMk-iXE
+[![Continuous Conversation in Threads](http://img.youtube.com/vi/N66LbMk-iXE/0.jpg)](https://youtu.be/N66LbMk-iXE)
 
 ### 3.4 Thread Model Change Function
 
@@ -101,7 +101,7 @@ https://youtu.be/N66LbMk-iXE
 3. Select the model you want to use
 4. Send a new message and confirm that the reply comes from the selected model
 
-https://youtu.be/5aU89c2bzi8
+[![Thread Model Change Function](http://img.youtube.com/vi/5aU89c2bzi8/0.jpg)](https://youtu.be/5aU89c2bzi8)
 
 ### 3.5 Channel Model Change Function
 
@@ -111,7 +111,7 @@ https://youtu.be/5aU89c2bzi8
 4. Click the "Set" button
 5. Send a new message and confirm that the reply comes from the selected model
 
-https://youtu.be/aPZzMGaErSI
+[![Channel Model Change Function](http://img.youtube.com/vi/aPZzMGaErSI/0.jpg)](https://youtu.be/aPZzMGaErSI)
 
 ### 3.6 Character Settings (System Prompt)
 
@@ -122,7 +122,7 @@ https://youtu.be/aPZzMGaErSI
 5. Click the "Set" button
 6. Send a new message and confirm that the reply reflects the character settings
 
-https://youtu.be/YFY-Ne_u_jg
+[![Character Settings (System Prompt)](http://img.youtube.com/vi/YFY-Ne_u_jg/0.jpg)](https://youtu.be/YFY-Ne_u_jg)
 
 ## 4. File Processing Functions
 
@@ -135,7 +135,7 @@ https://youtu.be/YFY-Ne_u_jg
 5. Click the "Summarize" button
 6. Confirm that the file summary is posted to the thread
 
-https://youtu.be/MF5tZ4dq3SQ
+[![File Summarization (Word, PPT, Excel, CSV)](http://img.youtube.com/vi/MF5tZ4dq3SQ/0.jpg)](https://youtu.be/MF5tZ4dq3SQ)
 
 ### 4.2 URL Summarization
 
@@ -145,7 +145,7 @@ https://youtu.be/MF5tZ4dq3SQ
 4. Click the "Summarize" button
 5. Confirm that a summary of the URL content is posted to the thread
 
-https://youtu.be/uKNJtmmFlmI
+[![URL Summarization](http://img.youtube.com/vi/uKNJtmmFlmI/0.jpg)](https://youtu.be/uKNJtmmFlmI)
 
 ### 4.3 Image Recognition (Multimodal)
 
@@ -156,7 +156,7 @@ https://youtu.be/uKNJtmmFlmI
 5. Send the message
 6. Confirm that the AI recognizes the image and provides an appropriate response
 
-https://youtu.be/YN8XrjpyJdc
+[![Image Recognition (Multimodal)](http://img.youtube.com/vi/YN8XrjpyJdc/0.jpg)](https://youtu.be/YN8XrjpyJdc)
 
 ### 4.4 Audio File Transcription
 
@@ -167,7 +167,7 @@ https://youtu.be/YN8XrjpyJdc
 5. Click the "Transcribe" button
 6. Confirm that the audio transcription result is posted to the thread
 
-https://youtu.be/Cth7xbC0EmE
+[![Audio File Transcription](http://img.youtube.com/vi/Cth7xbC0EmE/0.jpg)](https://youtu.be/Cth7xbC0EmE)
 
 ## 5. Content Generation Functions
 
@@ -179,7 +179,7 @@ https://youtu.be/Cth7xbC0EmE
 4. Send the message
 5. Confirm that the generated image file is posted to the thread
 
-https://youtu.be/hSvpX7DeF2A
+[![Image Generation](http://img.youtube.com/vi/hSvpX7DeF2A/0.jpg)](https://youtu.be/hSvpX7DeF2A)
 
 ### 5.2 Voice Generation
 
@@ -189,7 +189,7 @@ https://youtu.be/hSvpX7DeF2A
 4. Send the message
 5. Confirm that the generated audio file is posted to the thread
 
-https://youtu.be/E7OHdksLfe4
+[![Voice Generation](http://img.youtube.com/vi/E7OHdksLfe4/0.jpg)](https://youtu.be/E7OHdksLfe4)
 
 ### 5.3 Canvas Creation Function
 
@@ -199,7 +199,8 @@ https://youtu.be/E7OHdksLfe4
 4. After waiting a while, confirm that the URL of the created Canvas is displayed
 
 This feature is only available for Slack workspaces that support Canvas creation.
-https://youtu.be/1lA0eFVJmhs
+
+[![Canvas Creation Function](http://img.youtube.com/vi/1lA0eFVJmhs/0.jpg)](https://youtu.be/1lA0eFVJmhs)
 
 ## 6. Search and Integration Functions
 
@@ -211,7 +212,7 @@ https://youtu.be/1lA0eFVJmhs
 4. Ask a question that requires current information
 5. Confirm that the AI responds with web search results included
 
-https://youtu.be/hdtz1iTUUss
+[![Web Search Function](http://img.youtube.com/vi/hdtz1iTUUss/0.jpg)](https://youtu.be/hdtz1iTUUss)
 
 ### 6.2 Ask Slack Function (Internal Search)
 
@@ -220,7 +221,7 @@ https://youtu.be/hdtz1iTUUss
 3. Ask a question about messages within the workspace
 4. Confirm that the AI searches Slack messages and responds
 
-https://youtu.be/nhVCi2Q8emg
+[![Ask Slack Function (Internal Search)](http://img.youtube.com/vi/nhVCi2Q8emg/0.jpg)](https://youtu.be/nhVCi2Q8emg)
 
 ### 6.3 Ask Slack Function (Summary Feature)
 
@@ -231,7 +232,7 @@ https://youtu.be/nhVCi2Q8emg
 5. Send the message
 6. Confirm that the summary result is posted to the thread
 
-https://youtu.be/c8jFe3P9T9M
+[![Ask Slack Function (Summary Feature)](http://img.youtube.com/vi/c8jFe3P9T9M/0.jpg)](https://youtu.be/c8jFe3P9T9M)
 
 ### 6.4 Pinecone Integration (Vector DB)
 
@@ -241,7 +242,7 @@ https://youtu.be/c8jFe3P9T9M
 4. Confirm that the post is stored in Pinecone
 5. When asking questions about that content, confirm that it references the stored information in responses
 
-https://youtu.be/ggrNAy-g3W0
+[![Pinecone Integration (Vector DB)](http://img.youtube.com/vi/ggrNAy-g3W0/0.jpg)](https://youtu.be/ggrNAy-g3W0)
 
 ### 6.5 Google Spreadsheet RAG
 
@@ -255,11 +256,11 @@ https://youtu.be/ggrNAy-g3W0
 This feature uses OpenAI for RAG functionality.
 Therefore, OpenAI API key registration is required.
 
-https://youtu.be/CKuYpHJnAfw
+[![Google Spreadsheet RAG](http://img.youtube.com/vi/CKuYpHJnAfw/0.jpg)](https://youtu.be/CKuYpHJnAfw)
 
 ## 7. Translation Functions
 
-https://youtu.be/QfKWcMJSD10
+[![Translation Functions](http://img.youtube.com/vi/QfKWcMJSD10/0.jpg)](https://youtu.be/QfKWcMJSD10)
 
 ### 7.1 Stamp Translation Settings
 
@@ -299,7 +300,7 @@ If the translation model is an LLM model, you can select the model for translati
 5. Click the register button
 6. Confirm that new articles are posted to the channel once every hour
 
-https://youtu.be/V1FJtv9viME
+[![RSS Concierge](http://img.youtube.com/vi/V1FJtv9viME/0.jpg)](https://youtu.be/V1FJtv9viME)
 
 ### 8.2 LLM Log Transfer
 
@@ -309,7 +310,7 @@ https://youtu.be/V1FJtv9viME
 4. Save the settings
 5. Confirm that input and output from app interactions are transferred to the log channel
 
-https://youtu.be/EboY8S8cfd4
+[![LLM Log Transfer](http://img.youtube.com/vi/EboY8S8cfd4/0.jpg)](https://youtu.be/EboY8S8cfd4)
 
 ## 9. External Service Integration
 
@@ -326,4 +327,4 @@ https://youtu.be/EboY8S8cfd4
 9. Perform the fix
 10. Confirm that the event is created in Google Calendar
 
-https://youtu.be/X6nRFXyh7Lg
+[![Google Integration (Calendar Coordination)](http://img.youtube.com/vi/X6nRFXyh7Lg/0.jpg)](https://youtu.be/X6nRFXyh7Lg)

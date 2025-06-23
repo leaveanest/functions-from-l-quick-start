@@ -1,4 +1,4 @@
-# Party on Slack のテスト項目
+# Party on Slack 機能一覧
 
 ## 1. 初期セットアップとアクセス制御
 
@@ -9,7 +9,7 @@
 3. どのワークスペースにインストールするか選択する
 4. 権限の確認をしてから許可ボタンを押す
 
-https://youtu.be/ODa18XV4qj4
+[![アプリのインストール](http://img.youtube.com/vi/ODa18XV4qj4/0.jpg)](https://youtu.be/ODa18XV4qj4)
 
 ### 1.2 グローバルロック設定機能
 
@@ -19,7 +19,7 @@ https://youtu.be/ODa18XV4qj4
 4. 「ロック」ボタンをクリックする
 5. 他のユーザーが設定を変更できないことを確認する
 
-https://youtu.be/pyEUES06y4U
+[![グローバルロック設定機能](http://img.youtube.com/vi/pyEUES06y4U/0.jpg)](https://youtu.be/pyEUES06y4U)
 
 ### 1.3 ワークスペース許可設定
 
@@ -28,7 +28,7 @@ https://youtu.be/pyEUES06y4U
 3. DMでの利用・マルチモーダル・画像生成・音声生成の許可設定を確認する
 4. 必要に応じて「許可する」または「許可しない」を選択する
 
-https://youtu.be/w-g0ItPHAaE
+[![ワークスペース許可設定](http://img.youtube.com/vi/w-g0ItPHAaE/0.jpg)](https://youtu.be/w-g0ItPHAaE)
 
 ## 2. APIキー設定と基本認証
 
@@ -42,7 +42,7 @@ https://youtu.be/w-g0ItPHAaE
 4. 「保存」ボタンをクリックする
 5. 「API Keyは登録済みです」と表示されることを確認する
 
-https://youtu.be/8oZmn4Hrh2k
+[![API key 登録・検証](http://img.youtube.com/vi/8oZmn4Hrh2k/0.jpg)](https://youtu.be/8oZmn4Hrh2k)
 
 ### 2.2 使用モデル選択機能
 
@@ -52,7 +52,7 @@ https://youtu.be/8oZmn4Hrh2k
 4. 「保存」ボタンをクリックする
 5. チャンネルでモデル選択時に、選択したモデルのみが表示されることを確認する
 
-https://youtu.be/dgqPeUedz7E
+[![使用モデル選択機能](http://img.youtube.com/vi/dgqPeUedz7E/0.jpg)](https://youtu.be/dgqPeUedz7E)
 
 ### 2.3 ワークスペースモデル設定
 
@@ -62,7 +62,7 @@ https://youtu.be/dgqPeUedz7E
 
 ワークスペースで登録したモデルよりチャンネルで選択したモデルが優先されます。
 
-https://youtu.be/Gc9bOSykWcg
+[![ワークスペースモデル設定](http://img.youtube.com/vi/Gc9bOSykWcg/0.jpg)](https://youtu.be/Gc9bOSykWcg)
 
 ## 3. 基本的なAIチャット機能
 
@@ -74,7 +74,7 @@ https://youtu.be/Gc9bOSykWcg
 4. AIからの返信がスレッドに表示されることを確認する
 5. スレッドメニューが表示されることを確認する
 
-https://youtu.be/2zJXFrQ2fss
+[![チャンネルでのメンション応答](http://img.youtube.com/vi/2zJXFrQ2fss/0.jpg)](https://youtu.be/2zJXFrQ2fss)
 
 ### 3.2 DMでの会話
 
@@ -83,7 +83,7 @@ https://youtu.be/2zJXFrQ2fss
 3. メッセージを入力して送信する（メンション不要）
 4. AIからの返信が表示されることを確認する
 
-https://youtu.be/3zqQgsPuywo
+[![DMでの会話](http://img.youtube.com/vi/3zqQgsPuywo/0.jpg)](https://youtu.be/3zqQgsPuywo)
 
 ### 3.3 スレッド内での継続的な会話
 
@@ -92,7 +92,7 @@ https://youtu.be/3zqQgsPuywo
 3. AIが前の会話の文脈を理解して返信することを確認する
 4. 複数回やり取りを続けて、会話が継続することを確認する
 
-https://youtu.be/N66LbMk-iXE
+[![スレッド内での継続的な会話](http://img.youtube.com/vi/N66LbMk-iXE/0.jpg)](https://youtu.be/N66LbMk-iXE)
 
 ### 3.4 スレッドモデル変更機能
 
@@ -101,7 +101,7 @@ https://youtu.be/N66LbMk-iXE
 3. 使用したいモデルを選択する
 4. 新しいメッセージを送信し、選択したモデルで返信が来ることを確認する
 
-https://youtu.be/5aU89c2bzi8
+[![スレッドモデル変更機能](http://img.youtube.com/vi/5aU89c2bzi8/0.jpg)](https://youtu.be/5aU89c2bzi8)
 
 ### 3.5 チャンネルモデル変更機能
 
@@ -111,7 +111,7 @@ https://youtu.be/5aU89c2bzi8
 4. 設定するボタンをクリックする
 5. 新しいメッセージを送信し、選択したモデルで返信が来ることを確認する
 
-https://youtu.be/aPZzMGaErSI
+[![チャンネルモデル変更機能](http://img.youtube.com/vi/aPZzMGaErSI/0.jpg)](https://youtu.be/aPZzMGaErSI)
 
 ### 3.6 キャラクター設定（システムプロンプト）
 
@@ -122,7 +122,7 @@ https://youtu.be/aPZzMGaErSI
 5. 設定するボタンをクリックする
 6. 新しいメッセージを送信し、キャラクター設定が反映された返信が来ることを確認する
 
-https://youtu.be/YFY-Ne_u_jg
+[![キャラクター設定（システムプロンプト）](http://img.youtube.com/vi/YFY-Ne_u_jg/0.jpg)](https://youtu.be/YFY-Ne_u_jg)
 
 ## 4. ファイル処理機能
 
@@ -135,7 +135,7 @@ https://youtu.be/YFY-Ne_u_jg
 5. 「要約する」ボタンをクリックする
 6. ファイルの要約がスレッドに投稿されることを確認する
 
-https://youtu.be/MF5tZ4dq3SQ
+[![ファイル要約（Word、PPT、Excel、CSV）](http://img.youtube.com/vi/MF5tZ4dq3SQ/0.jpg)](https://youtu.be/MF5tZ4dq3SQ)
 
 ### 4.2 URL要約
 
@@ -145,7 +145,7 @@ https://youtu.be/MF5tZ4dq3SQ
 4. 「要約する」ボタンをクリックする
 5. URLの内容の要約がスレッドに投稿されることを確認する
 
-https://youtu.be/uKNJtmmFlmI
+[![URL要約](http://img.youtube.com/vi/uKNJtmmFlmI/0.jpg)](https://youtu.be/uKNJtmmFlmI)
 
 ### 4.3 画像認識（マルチモーダル）
 
@@ -156,7 +156,7 @@ https://youtu.be/uKNJtmmFlmI
 5. 送信する
 6. AIが画像を認識して適切な返答をすることを確認する
 
-https://youtu.be/YN8XrjpyJdc
+[![画像認識（マルチモーダル）](http://img.youtube.com/vi/YN8XrjpyJdc/0.jpg)](https://youtu.be/YN8XrjpyJdc)
 
 ### 4.4 音声ファイルの文字起こし
 
@@ -167,7 +167,7 @@ https://youtu.be/YN8XrjpyJdc
 5. 「文字起こしする」ボタンをクリックする
 6. 音声の文字起こし結果がスレッドに投稿されることを確認する
 
-https://youtu.be/Cth7xbC0EmE
+[![音声ファイルの文字起こし](http://img.youtube.com/vi/Cth7xbC0EmE/0.jpg)](https://youtu.be/Cth7xbC0EmE)
 
 ## 5. コンテンツ生成機能
 
@@ -179,7 +179,7 @@ https://youtu.be/Cth7xbC0EmE
 4. 送信する
 5. 生成された画像ファイルがスレッドに投稿されることを確認する
 
-https://youtu.be/hSvpX7DeF2A
+[![画像生成](http://img.youtube.com/vi/hSvpX7DeF2A/0.jpg)](https://youtu.be/hSvpX7DeF2A)
 
 ### 5.2 音声生成
 
@@ -189,7 +189,7 @@ https://youtu.be/hSvpX7DeF2A
 4. 送信する
 5. 生成された音声ファイルがスレッドに投稿されることを確認する
 
-https://youtu.be/E7OHdksLfe4
+[![音声生成](http://img.youtube.com/vi/E7OHdksLfe4/0.jpg)](https://youtu.be/E7OHdksLfe4)
 
 ### 5.3 Canvas作成機能
 
@@ -200,7 +200,7 @@ https://youtu.be/E7OHdksLfe4
 
 Canvasが作成可能なSlackワークスペースのみ利用できます。
 
-https://youtu.be/1lA0eFVJmhs
+[![Canvas作成機能](http://img.youtube.com/vi/1lA0eFVJmhs/0.jpg)](https://youtu.be/1lA0eFVJmhs)
 
 ## 6. 検索・統合機能
 
@@ -212,7 +212,7 @@ https://youtu.be/1lA0eFVJmhs
 4. 最新情報を必要とする質問をする
 5. AIがWeb検索結果を含めた回答をすることを確認する
 
-https://youtu.be/hdtz1iTUUss
+[![Web検索機能](http://img.youtube.com/vi/hdtz1iTUUss/0.jpg)](https://youtu.be/hdtz1iTUUss)
 
 ### 6.2 Slackにきく機能（内部検索）
 
@@ -221,7 +221,7 @@ https://youtu.be/hdtz1iTUUss
 3. ワークスペース内のメッセージに関する質問をする
 4. AIがSlack内のメッセージを検索して回答することを確認する
 
-https://youtu.be/nhVCi2Q8emg
+[![Slackにきく機能（内部検索）](http://img.youtube.com/vi/nhVCi2Q8emg/0.jpg)](https://youtu.be/nhVCi2Q8emg)
 
 ### 6.3 Slackにきく機能（要約機能）
 
@@ -232,7 +232,7 @@ https://youtu.be/nhVCi2Q8emg
 5. 送信する
 6. 要約結果がスレッドに投稿されることを確認する
 
-https://youtu.be/c8jFe3P9T9M
+[![Slackにきく機能（要約機能）](http://img.youtube.com/vi/c8jFe3P9T9M/0.jpg)](https://youtu.be/c8jFe3P9T9M)
 
 ### 6.4 Pinecone連携（ベクトルDB）
 
@@ -242,7 +242,7 @@ https://youtu.be/c8jFe3P9T9M
 4. その投稿がPineconeに格納されることを確認する
 5. その内容に関する質問をすると、格納された情報を参照して回答することを確認する
 
-https://youtu.be/ggrNAy-g3W0
+[![Pinecone連携（ベクトルDB）](http://img.youtube.com/vi/ggrNAy-g3W0/0.jpg)](https://youtu.be/ggrNAy-g3W0)
 
 ### 6.5 Google スプレッドシートRAG
 
@@ -256,11 +256,11 @@ https://youtu.be/ggrNAy-g3W0
 この機能はOpenAIを利用してRAGを行っています。
 なので、OpenAIのAPIキー登録が必要です。
 
-https://youtu.be/CKuYpHJnAfw
+[![Google スプレッドシートRAG](http://img.youtube.com/vi/CKuYpHJnAfw/0.jpg)](https://youtu.be/CKuYpHJnAfw)
 
 ## 7. 翻訳機能
 
-https://youtu.be/QfKWcMJSD10
+[![翻訳機能](http://img.youtube.com/vi/QfKWcMJSD10/0.jpg)](https://youtu.be/QfKWcMJSD10)
 
 ### 7.1 スタンプ翻訳設定
 
@@ -300,7 +300,7 @@ DeepLのAPIキーまたはGoogle Cloud Service Account API Key, LLM ModelのAPI�
 5. 登録ボタンをクリックする
 6. 1時間に1回、新規記事があればチャンネルに投稿されることを確認する
 
-https://youtu.be/V1FJtv9viME
+[![RSSコンシェルジュ](http://img.youtube.com/vi/V1FJtv9viME/0.jpg)](https://youtu.be/V1FJtv9viME)
 
 ### 8.2 LLMログ転送
 
@@ -310,7 +310,7 @@ https://youtu.be/V1FJtv9viME
 4. 設定を保存する
 5. アプリとのやり取りの入出力がログチャンネルに転送されることを確認する
 
-https://youtu.be/EboY8S8cfd4
+[![LLMログ転送](http://img.youtube.com/vi/EboY8S8cfd4/0.jpg)](https://youtu.be/EboY8S8cfd4)
 
 ## 9. 外部サービス連携
 
@@ -327,4 +327,4 @@ https://youtu.be/EboY8S8cfd4
 9. fixを行う
 10. Googleカレンダーから予定が作成されることを確認する
 
-https://youtu.be/X6nRFXyh7Lg
+[![Google連携（カレンダー調整）](http://img.youtube.com/vi/X6nRFXyh7Lg/0.jpg)](https://youtu.be/X6nRFXyh7Lg)
