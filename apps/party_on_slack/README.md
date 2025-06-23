@@ -199,6 +199,7 @@ https://youtu.be/E7OHdksLfe4
 4. しばらく待つと、作成されたCanvasのURLが表示されることを確認する
 
 Canvasが作成可能なSlackワークスペースのみ利用できます。
+
 https://youtu.be/1lA0eFVJmhs
 
 ## 6. 検索・統合機能
