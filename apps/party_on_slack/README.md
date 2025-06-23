@@ -9,7 +9,11 @@
 3. どのワークスペースにインストールするか選択する
 4. 権限の確認をしてから許可ボタンを押す
 
+**サムネイル埋め込み:**
 [![アプリのインストール](http://img.youtube.com/vi/ODa18XV4qj4/0.jpg)](https://youtu.be/ODa18XV4qj4)
+
+**HTML iframe埋め込み:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ODa18XV4qj4" frameborder="0" allowfullscreen></iframe>
 
 ### 1.2 グローバルロック設定機能
 
@@ -19,7 +23,11 @@
 4. 「ロック」ボタンをクリックする
 5. 他のユーザーが設定を変更できないことを確認する
 
+**サムネイル埋め込み:**
 [![グローバルロック設定機能](http://img.youtube.com/vi/pyEUES06y4U/0.jpg)](https://youtu.be/pyEUES06y4U)
+
+**HTML iframe埋め込み:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pyEUES06y4U" frameborder="0" allowfullscreen></iframe>
 
 ### 1.3 ワークスペース許可設定
 
